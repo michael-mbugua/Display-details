@@ -33,7 +33,8 @@ input{
 table, th,td{
     border: 2px solid black;
     padding: 5px;
+    border-collapse: collapse;
 }
-th{
-    border-collapse: separate;
+th,td{
+    border-collapse: collapse;
 }
