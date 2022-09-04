@@ -1,0 +1,39 @@
+*{
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+.main{
+    justify-content: center;
+    padding-left: 25%;
+
+}
+.input{
+    padding-bottom: 20px;
+}
+input{
+    padding: 15px 10px;
+    border-radius: 2vh;
+    border: 2px solid black;
+}
+#entry{
+    padding: 10px 15px;
+    border-radius: 2vh;
+    background-color: green;
+    border: none;
+    color: white;
+    
+}
+#display{
+    padding-top: 15px;
+    justify-content: center;
+    justify-content: space-around;
+    
+}
+table, th,td{
+    border: 2px solid black;
+    padding: 5px;
+}
+th{
+    border-collapse: separate;
+}
